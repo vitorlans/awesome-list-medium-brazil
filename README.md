@@ -17,6 +17,8 @@ Seção focada em conteudo de tecnologia.
 
 - [Luiza Labs](https://medium.com/luizalabs)
 - [tableless](https://medium.com/tableless)
+- <a href="https://medium.com/olxbr-tech" target="_blank">OLX Brasil Tech</a>
+
 
 
 ## Contribute
