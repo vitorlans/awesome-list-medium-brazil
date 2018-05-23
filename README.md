@@ -1,28 +1,22 @@
 # Awesome List Medium Brazil [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of &lt;insert awesome stuff&gt;
+> A curated list of links from medium with awesome content writed portuguese brazil.
+
+> Uma Lista acurada de links do medium com otimo conteudo escrito em portugues do brasil.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Tecnologia](#Tecnologia)
 
+## Tecnologia
 
-## Section
+Seção focada em conteudo de tecnologia.
 
-About this section. Optional. Keep this short and focus on the list.
+### Publicações
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Luiza Labs](https://medium.com/luizalabs)
+- [tableless](https://medium.com/tableless)
 
 
 ## Contribute
