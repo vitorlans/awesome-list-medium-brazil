@@ -17,8 +17,12 @@ Seção focada em conteúdo de tecnologia.
 ### Publicações
 
 - [Luiza Labs](https://medium.com/luizalabs)
-- [tableless](https://medium.com/tableless)
+- [Tableless](https://medium.com/tableless)
 - [OLX Brasil Tech](https://medium.com/olxbr-tech)
+- [Training Center](https://medium.com/trainingcenter)
+- [Welcome to the Django](https://medium.com/welcome-to-the-django)
+- [Android Dev BR](https://medium.com/android-dev-br)
+
 
 ## Empreendedorismo
 
@@ -26,7 +30,7 @@ Seção focada em conteúdo de empreendedorismo
 
 ### Publicações
 
-- [Startup da Real](https://medium.com/@startupdareal)
+- [Startup da Real](https://medium.com/startup-da-real)
 
 
 
