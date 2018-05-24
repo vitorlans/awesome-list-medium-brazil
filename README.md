@@ -7,17 +7,26 @@
 
 ## Contents
 
-- [Tecnologia](#Tecnologia)
+- [Tecnologia](#tecnologia)
+- [Empreendedorismo](#empreendedorismo)
 
 ## Tecnologia
 
-Seção focada em conteudo de tecnologia.
+Seção focada em conteúdo de tecnologia.
 
 ### Publicações
 
 - [Luiza Labs](https://medium.com/luizalabs)
 - [tableless](https://medium.com/tableless)
-- <a href="https://medium.com/olxbr-tech" target="_blank">OLX Brasil Tech</a>
+- [OLX Brasil Tech](https://medium.com/olxbr-tech)
+
+## Empreendedorismo
+
+Seção focada em conteúdo de empreendedorismo
+
+### Publicações
+
+- [Startup da Real](https://medium.com/@startupdareal)
 
 
 
