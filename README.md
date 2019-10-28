@@ -22,6 +22,7 @@ Seção focada em conteúdo de tecnologia.
 - [Training Center](https://medium.com/trainingcenter)
 - [Welcome to the Django](https://medium.com/welcome-to-the-django)
 - [Android Dev BR](https://medium.com/android-dev-br)
+- [Renato Groffe](https://medium.com/@renato.groffe)
 
 
 ## Empreendedorismo
